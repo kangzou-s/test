@@ -1,2 +1,2 @@
 # test
-<div align=center><img width="150" height="150" src="img_presentation/puzzle_unsolved.jpg"/></div>
+<div align=left><img width="200" height="200" src="img_presentation/puzzle_unsolved.jpg"/></div>
